@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Regis Tesson registess@gmail.com 
 
 # THANKS
 

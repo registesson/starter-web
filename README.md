@@ -21,4 +21,4 @@ can be on any web server or even local file system
 ## How to contribute
 Please fork This repo
 
-Git training
+Git training; All rights reserved
